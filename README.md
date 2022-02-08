@@ -1,2 +1,2 @@
-# fastcampus Java 문법
+# 이것이 자바다 문법
 
